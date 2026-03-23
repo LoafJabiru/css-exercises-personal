@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+/** **All odd numbered elements**: a light red/pink background, and a list of fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as a fallback*/
+.class{
+  background-color: #ffcccc;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.class.two {
+  
+  font-size: 24px;
+}
+
+#div2 {
+  color: #167abc;
+  font-size: 36px;
+}
+
+#div4{
+    background-color: #44c977;
+    font-size: 24px;
+    font-weight: bold;
+}
